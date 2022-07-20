@@ -3,7 +3,6 @@
 - 🐝 I'm currently looking to secure work placement as part of my degree
 - 👀 I’m interested in Video Games, Music, Animals and Art
 - 🌱 I’m currently learning Java, C++, Animation, C#, Unity, Unreal Engine
-- 💞️ I’m looking to collaborate on anything fun!
 - 📫 How to reach me:
 - Linkedln - www.linkedin.com/in/leanne-creedon
 - Email - D00236480@student.dkit.ie
