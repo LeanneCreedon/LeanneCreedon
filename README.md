@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeanneCreedon
-- 🐧 I'm a games development student heading into my 3rd year
+- 🐧 I'm a games development student in my 3rd year
 - 🐝 I''ll be undertaking work placement this semester as part of my degree
 - 👀 I’m interested in Video Games, Music, Animals and Art
 - 🌱 I’m currently learning Java, C++, Animation, C#, Unity, Unreal Engine
