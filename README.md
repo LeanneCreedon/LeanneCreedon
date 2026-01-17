@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LeanneCreedon
-- 🐧 I'm a games development graduate
-- 🐝 As part of my course, I completed an internship as a Software Enginner and am now open to new opportunities!
+- 🐧 I'm an Associate Capture Technical Artist @ 2K Games
 - 👀 I’m interested in Video Games, Music, Animals and Art
 - 🌱 I’m currently building my skills and knowledge with the aim of developing a strong portfolio
 - 📫 How to reach me:
